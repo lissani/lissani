@@ -7,7 +7,7 @@
   <p>💻 I'm majoring in Computer Science.</p>
   <p>📫 You can contact me at: <a href="mailto:jhs040617@sogang.ac.kr">jhs040617@sogang.ac.kr</a></p>
   <hr>
-  <h4>📚 STUDYING</h4>
+  <h4>📚 Studying</h4>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-flat&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-flat&logo=python&logoColor=white" alt="Python">
